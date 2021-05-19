@@ -1,1 +1,0 @@
-# someaka.github.io
