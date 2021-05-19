@@ -5,12 +5,12 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "tst"
+    "text": ""
   },
   "text": {
-    "more": "longdescription",
+    "more": "",
     "intro": "quests graph",
-    "title": "tst"
+    "title": ""
   },
   "legend": {
     "edgeLabel": "links",
@@ -23,7 +23,7 @@
     "hoverBehavior": "dim"
   },
   "informationPanel": {
-    "groupByEdgeDirection": false,
+    "groupByEdgeDirection": true,
     "imageAttribute": false
   },
   "sigma": {
